@@ -1,8 +1,3 @@
-//Luke Duggan, Samad Ahmad, Cooper Yap
-//12/3/2018
-//Final Exam Program
-
-
 #include <iostream>
 #include <string>
 #include <iomanip>
